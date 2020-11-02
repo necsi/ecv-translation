@@ -1,0 +1,16 @@
+{
+  "name": "@necsi/gcp-translate",
+  "version": "1.0.0",
+  "description": "Translation of ECV website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamil Bobrowski",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3",
+    "dotenv": "^8.2.0"
+  }
+}
