@@ -6,12 +6,6 @@
 
 Translation of [endcoronavirus.org](http://endcoronavirus.org) website
 
-### Current status
-
-<a href="https://hosted.weblate.org/engage/endcoronavirus-org/en/">
-<img src="https://hosted.weblate.org/widgets/endcoronavirus-org/en/endcoronavirus-website/multi-auto.svg" alt="Translation status" />
-</a>
-
 ### How to translate
 
 - Go to [Weblate project](https://hosted.weblate.org/projects/endcoronavirus-org/endcoronavirus-website/)
